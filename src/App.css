@@ -1,0 +1,19 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 30rem;
+}
+
+#logo {
+  height: auto;
+  margin-bottom: 1rem;
+  max-width: 40%;
+}
+
+#search-input {
+  padding: 10px 200px;
+}
+
+/*# sourceMappingURL=App.css.map */
