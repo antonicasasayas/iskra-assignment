@@ -1,5 +1,5 @@
 $font: 'Roboto';
-
+$gray: #dadada;
 
 #container{
   display: flex;
@@ -7,18 +7,16 @@ $font: 'Roboto';
   justify-content: center;
   align-items: center;
   min-height: 30rem;
+  
  }
   
 
 
 #logo{
 height: auto;
-margin-bottom: 1rem;
-  max-width: 40%;
+margin-bottom: 1.5rem;
+  max-width: 20%;
 }
 
-#search-input{
-  
-  padding: 10px 200px;
-}
+
   
