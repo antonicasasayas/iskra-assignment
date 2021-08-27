@@ -8,6 +8,12 @@ Also, I have implemented local storage to save and display the last 10 searches.
 
 User can click on suggestions as well as last 10 searches to search the specific term again.
 
+##Live Demo
+
+https://user-images.githubusercontent.com/80897257/131162054-4cb0b0f0-c84b-4e7e-bccc-2ee40cb49cda.mp4
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
