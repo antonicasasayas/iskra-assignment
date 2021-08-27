@@ -1,22 +1,18 @@
-$font: 'Roboto';
-$gray: #dadada;
-
-#container{
+#container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 30rem;
-  
- }
-  
-
-
-#logo{
-height: auto;
-margin-bottom: 1.5rem;
-  max-width: 20%;
 }
 
+#logo {
+  height: auto;
+  margin-bottom: 1.5rem;
+  max-width: 20%;
+  &:hover{
+    
+  transform: scale(1.05)
 
-  
+  }
+}

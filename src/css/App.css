@@ -11,5 +11,8 @@
   margin-bottom: 1.5rem;
   max-width: 20%;
 }
+#logo:hover {
+  transform: scale(1.05);
+}
 
 /*# sourceMappingURL=App.css.map */

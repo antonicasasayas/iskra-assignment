@@ -1,0 +1,24 @@
+.queries-container {
+  border: 1px solid #dadada;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  align-items: center;
+  gap: 10px;
+  margin: auto;
+  width: 50%;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  justify-items: center;
+}
+.queries-container button {
+  width: 100px;
+  text-align: center;
+  cursor: pointer;
+}
+.queries-container button:hover {
+  background: #f0f0f0;
+}
+
+/*# sourceMappingURL=QueriesList.css.map */
